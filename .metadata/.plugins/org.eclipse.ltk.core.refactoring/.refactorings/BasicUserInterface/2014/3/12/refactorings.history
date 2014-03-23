@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;drawable-xhdpi&apos;&#x0D;&#x0A;- Original project: &apos;BasicUserInterface&apos;&#x0D;&#x0A;- Destination element: &apos;drawable-xhdpi&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     patrick.png&#x0D;&#x0A;     hithere.jpg" description="Copy files" element1="res/drawable-xhdpi/patrick.png" element2="res/drawable-xhdpi/hithere.jpg" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1395544836769" target="/SendSMS/res/drawable-xhdpi" units="0" version="1.0"/>
+</session>
